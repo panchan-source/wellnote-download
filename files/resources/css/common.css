@@ -1,0 +1,122 @@
+ul {
+  display: flex;
+  justify-content: center;
+
+}
+
+.post {
+  margin: 10px 100px 0px 100px;
+  border: 5px solid #efefef;
+  box-sizing: border-box;
+}
+.post .user{
+  width: 80%;
+  display: flex;
+
+}
+
+
+.post  .user .icon img {
+  width: 200px; 
+  border-radius: 100px;
+}
+
+.post .user .right .user {
+  margin: 30px 10px 0;
+  padding: 0;
+  font-weight: bold;
+  font-size: 30px;
+}
+.post .user .right .time {
+  margin: 10px 10px 0;
+  padding: 0;
+  font-size: 18px;
+}
+.post .images {
+  margin: 10px 100px 0px 100px;
+  height : 450px;
+  padding: 0;
+
+
+}
+.post .message {
+  margin: 5px 0px 5px 200px;
+  padding: 0;
+  font-size: 25px;
+  line-height: 130%
+}
+.post .images .image {
+
+  padding: 0;
+
+  width: 250px;
+  height: 400px;
+  object-fit: cover;
+
+}
+.post video {
+
+  padding: 0;
+  height : 400px
+
+}
+
+
+
+
+
+.comment {
+  margin: 10px 100px 0px 100px;
+  border: 5px solid #efefef;
+}
+.comment .user{
+  margin: 30px 0px 0px 100px;
+  width: 80%;
+  display: flex;
+
+}
+
+.comment  .user .icon img {
+  width: 200px; 
+  border-radius: 100px;
+}
+
+.comment .user .right .user {
+  margin: 30px 10px 0;
+  padding: 0;
+  font-weight: bold;
+  font-size: 30px;
+}
+.comment .user .right .time {
+  margin: 10px 10px 0;
+  padding: 0;
+  font-size: 18px;
+}
+
+.comment .message {
+  margin: 10px 300px 10px 300px;
+  padding: 0;
+  font-size: 25px;
+  line-height: 130%
+}
+.comment .image {
+  margin: 10px 10px 10px 10px;
+  padding: 0;
+  font-size: 18px;
+}
+
+.comment .stamp {
+  margin: 20px 0 0 300px;
+  width: 300px; 
+}
+.comment hr {
+  margin: 0px 300px 0 100px;
+}
+
+
+body {
+  font-family: Roboto, "Noto Sans JP", sans-serif;
+  margin: 20px;
+  padding: 0;
+
+}
