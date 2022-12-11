@@ -3,6 +3,7 @@
 ・全家族写真/動画/アイコン  
 ・写真はアルバムの日時で撮影日時付与  
 ・チャット履歴(html)  
+・チャット履歴(csv)
 ・成長記録(csv)  
 ・自作スタンプ  
 ・RawData(json)  
@@ -37,4 +38,5 @@
 ./contents/icons : アイコンが保存されます  
 ./contents/originalstamps : 自作スタンプが保存されます  
 ./contents/pages : チャット毎のhtmlファイルが保存されます  
+./contents/tweets : 家族毎のチャットがCSV形式で保存されます 
 ./contents/rawdata : 調査用の詳細なファイルが保存されます  
