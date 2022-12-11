@@ -16,7 +16,16 @@
 
 ##  使用方法
 ダウンロードしたdownload_pic_all.exeを実行すると以下の画面が表示されるので、emailとpasswordを入力してください。  
-![login](https://user-images.githubusercontent.com/120144672/206593139-ba895c8a-3575-46b3-a310-fb6d8ef487d9.png)
+チェックボックスがONだとメディアの作成日時が撮影日になりますが、FFmgepを使用して更新するためが画質が劣化する可能性があります。  
+![longin2](https://user-images.githubusercontent.com/120144672/206911387-76b7b57e-9bb4-4091-96be-e5368a183ff5.png)
+
+参考  
+チェックあり  
+![チェックあり](https://user-images.githubusercontent.com/120144672/206911449-29774769-4534-4779-97b5-aacb9ddaddfe.png)
+
+チェックなし  
+![チェックなし](https://user-images.githubusercontent.com/120144672/206911464-edd6feaa-f3c9-4756-a4d3-187102fd800e.png)
+
 
 ツールが動き始めると黒い画面にログが表示されます  
 ![実行画面](https://user-images.githubusercontent.com/120144672/206593495-01a5bae2-8375-47b2-8f96-f87334af682f.png)
