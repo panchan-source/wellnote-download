@@ -1,4 +1,10 @@
 # wellnote-download
+## Wellnote公式からのアナウンス
+wellnoteから公式の一括ダウンロード機能のアナウンスがありました。  
+https://wellnote.jp/information/?id=215  
+
+
+# ツール説明
 ## 機能
 ・全家族写真/動画/アイコン  
 ・写真はアルバムの日時で撮影日時付与  
@@ -9,15 +15,24 @@
 ・RawData(json)  
 
 ## ダウンロード
-
 [こちら](https://github.com/panchan-source/wellnote-download/releases/)
 からdownload_pic_all.exeをダウンロードしてください。  
 ※Windowsのみ対象です
 
+実行時にWindowsから警告がでる場合は詳細情報をクリックしたのち実行ボタンをクリックすると動作します。
+<img src=https://user-images.githubusercontent.com/120144672/207176605-b0d5dd27-02b1-49c2-b482-d7e6f4851f60.jpg width=320px>  
+
 ##  使用方法
-ダウンロードしたdownload_pic_all.exeを実行すると以下の画面が表示されるので、emailとpasswordを入力してください。  
+ダウンロードしたdownload_pic_all.exeを実行すると以下の画面が表示されるので、emailとpasswordを入力してください。
+exeと同じフォルダにcontentsフォルダが作成され、その配下にwellnoteのデータがダウンロードされます  
 チェックボックスがONだとメディアの作成日時が撮影日になりますが、FFmgepを使用して更新するためが画質が劣化する可能性があります。  
-![longin2](https://user-images.githubusercontent.com/120144672/206911387-76b7b57e-9bb4-4091-96be-e5368a183ff5.png)
+![login3](https://user-images.githubusercontent.com/120144672/207177855-f7db3bcb-4ebe-4bf8-b3ab-b2fb833c47df.png)
+
+contentsフォルダ配下に以下のファイルができることがあります。  
+未対応メッセージ.txt : サポートしてないタイプの投稿がありました。DMにてご連絡ください。
+EXIF_Error.csv : ファイルタイプが不明でEXIFの付与、動画のメディアの作成日時の」付与に失敗しました。該当ファイルに手動で情報を付与してください。  
+
+
 
 参考  
 チェックあり  
