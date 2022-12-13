@@ -20,7 +20,8 @@ https://wellnote.jp/information/?id=215
 ※Windowsのみ対象です
 
 実行時にWindowsから警告がでる場合は詳細情報をクリックしたのち実行ボタンをクリックすると動作します。
-<img src=https://user-images.githubusercontent.com/120144672/207176605-b0d5dd27-02b1-49c2-b482-d7e6f4851f60.jpg width=320px>  
+<img src=https://user-images.githubusercontent.com/120144672/207176605-b0d5dd27-02b1-49c2-b482-d7e6f4851f60.jpg width=320px>
+<img src=https://user-images.githubusercontent.com/120144672/207296234-0bd49d28-56e1-41d3-a804-f948fcb573d0.jpg width=320px>  
 
 ##  使用方法
 ダウンロードしたdownload_pic_all.exeを実行すると以下の画面が表示されるので、emailとpasswordを入力してください。
